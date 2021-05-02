@@ -1,0 +1,1 @@
+# Active-UCITS-Strategy-with-Regularization-Methods-in-US-Equity-Market
