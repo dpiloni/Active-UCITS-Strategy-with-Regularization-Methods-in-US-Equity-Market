@@ -22,5 +22,5 @@ The goal of the strategy is to exploit the inefficiency of cap-weighted index us
 
 ## Conclusions
 
-* The strategy is able to deliver a greater Sharpe ratio, expected returns and an outstanding alpha of 14% annualized over the period 2008-2020
+* The strategy is able to deliver a greater Sharpe ratio, expected returns and an outstanding annualized alpha of 14% over the period 2008-2020
 * The strategy seems to act like an amplifier of benchmark movements
