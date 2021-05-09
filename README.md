@@ -1,4 +1,4 @@
-# Active-UCITS-Strategy-with-Regularization-Methods-in-US-Equity-Market
+# Active UCITS Strategy with Regularization Methods in US Equity-Market
 
 ## Introduction 
 The goal of the strategy is to exploit the inefficiency of cap-weighted index using Regularization methods and obtain an extraperformance over the benchmark. By replying a market index, you are implicitly giving a bigger weight to the largest companies, but there's no empirical evidence to justify it. I want to see if, identifying the most important stocks (i.e. investing only in the 20 stocks that have 
