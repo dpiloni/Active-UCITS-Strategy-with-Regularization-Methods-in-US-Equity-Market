@@ -1,4 +1,4 @@
-# UCITS Strategy with Regularization Methods in US Equity Market
+# UCITS Strategy: Regularization Methods in US Equity Market
 
 ## Introduction 
 * The goal of the strategy is to exploit the inefficiency of cap-weighted index using Regularization methods and obtain an extraperformance over the benchmark. 
