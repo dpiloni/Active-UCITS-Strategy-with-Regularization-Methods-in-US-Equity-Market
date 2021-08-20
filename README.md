@@ -16,7 +16,7 @@ The data is collected for the period January 2005-Decmber 2020, while the backte
 
 ### Summary statistics:
 
-<img width="700" alt="stats" src="https://user-images.githubusercontent.com/78954578/116822610-01d79000-ab80-11eb-9dd7-324a85ba81cf.png">
+<img width="700" alt="stats" src="https://user-images.githubusercontent.com/78954578/130258428-314762dc-f3e7-410b-a72a-f84aa90025b9.png">
 
 
 ### Ex-post P&L comparison:
