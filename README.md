@@ -18,7 +18,7 @@ The data is collected for the period January 2005-Decmber 2020, while the backte
 
 ### Summary statistics:
 
-<img width="700" alt="stats" src="https://user-images.githubusercontent.com/78954578/130258428-314762dc-f3e7-410b-a72a-f84aa90025b9.png">
+![summary stats](https://user-images.githubusercontent.com/78954578/130291490-4cb198d8-51dc-4c46-ae22-2dc0c3fdce0d.png)
 
 * Over the period considered, the strategy is able to deliver greater annualized returns and risk-adjusted performance, measured by the Sharpe ratio; the annualized alpha reaches 10%.
 * Drawbacks come with higher VaR, CVaR and maximum drawdown, all suggesting a deeper tail risk.
