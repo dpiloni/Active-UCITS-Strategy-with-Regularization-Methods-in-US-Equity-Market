@@ -28,7 +28,7 @@ The data is collected for the period January 2005-Decmber 2020, while the backte
 
 <img width="555" alt="montante" src="https://user-images.githubusercontent.com/78954578/130251583-e901ccbc-b72f-4090-8430-0c3e1421b949.png">
 
-* Starting from a 1000$ capital, the cumulative profits of the strategy over 13 years (2008-2020) would have reach 12.800$, while the same amount invested in the market would have allowed to obtain a final wealth of approximately 2.500$.
+* Starting from a 1000$ capital, the cumulative profits of the strategy over 13 years (2008-2020) would have reached 12.800$, while the same amount invested in the market would have allowed to obtain a final wealth of approximately 2.500$.
 
 ### Yearly performance:
 
