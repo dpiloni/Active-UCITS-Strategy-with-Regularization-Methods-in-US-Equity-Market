@@ -22,7 +22,7 @@ The data is collected for the period January 2005-Decmber 2020, while the backte
 
 * Over the period considered, the strategy is able to deliver greater annualized returns and risk-adjusted performance, measured by the Sharpe ratio; the annualized alpha reaches 10%.
 * Drawbacks come with higher VaR, CVaR and maximum drawdown, all suggesting a deeper tail risk.
-* By jointly analyzing the higher moments of the distribution, we can also observe extreme positive events, as can be easily seen by visualizing the portfolio's returns distribution:
+* By plotting historical returns distribution, we can also observe extreme positive events, as can be easily seen by visualizing the portfolio's returns distribution:
 
 <img width="545" alt="hist" src="https://user-images.githubusercontent.com/78954578/130271762-ffb773e2-d828-46bd-bcd3-55cc48edcdcf.png">
 
