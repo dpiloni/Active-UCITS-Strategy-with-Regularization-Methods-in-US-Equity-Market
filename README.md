@@ -4,8 +4,8 @@
 
 ## Introduction 
 * The goal of the strategy is to exploit the inefficiency of cap-weighted index using Regularization methods and obtain an extraperformance over the benchmark. 
-* By replying a market index, you are implicitly giving a larger weight to the largest companies, but there's no empirical evidence to justify it. 
-* The framework consists in identifying the most important stocks that have defined benchamark's returns using regularization methods. In this application, the number of stocks considered is 20, in order to meet UCITS diversification constraints.
+* By replicating a market index, passive managers are implicitly giving a larger weight to the largest companies; however, there's no empirical evidence to justify it. 
+* The idea is to identify the most important stocks that have contributed to benchmark's returns using regularization methods (Lasso). In this application, the number of stocks considered is 20, in order to meet UCITS diversification constraints.
 
 ## Data
 
