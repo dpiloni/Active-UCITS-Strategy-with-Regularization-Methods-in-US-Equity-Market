@@ -41,5 +41,5 @@ The data is collected for the period January 2005-Decmber 2020, while the backte
 
 ## Conclusions
 
-* The strategy is able to deliver a greater Sharpe ratio, expected returns and an outstanding annualized alpha of 10% over the period 2008-2020
+* The strategy is able to deliver a greater Sharpe ratio, expected returns and an annualized alpha of 10% over the period 2008-2020
 * The strategy seems to act like an amplifier of benchmark movements: it performs incredibly better than the benchmark when the market goes up, but this comes with a worse perfomance during bearish periods.
